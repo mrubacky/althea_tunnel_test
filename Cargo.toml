@@ -1,0 +1,7 @@
+[package]
+name = "sandbox"
+version = "0.1.0"
+authors = ["Michael Rubacky <michael.rubacky@gmail.com>"]
+
+[dependencies]
+althea_kernel_interface = { path = "../althea_kernel_interface" }
